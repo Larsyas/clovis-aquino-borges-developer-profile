@@ -1,0 +1,1 @@
+This is a django built professional website, in terms of showing my image and contact for the worldwide techlogy community.
